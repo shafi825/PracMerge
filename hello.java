@@ -3,5 +3,7 @@ package PracMerge;
 public class hello{
     public static void main(String[] args) {
         System.out.println("hello");
+        System.err.println(13);
+        System.out.println(20);
     }
 }
